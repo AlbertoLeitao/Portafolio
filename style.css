@@ -8,6 +8,7 @@ h1{
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
   
 }
 
@@ -19,12 +20,19 @@ h2{
     padding-right: 30px;
     padding-bottom: 15px;
     padding-left: 50px;
+  
 
 }
 
 .imgPer{
     float:right;
     padding: 25px;
+
+}
+
+.imgPer2{
+    float:left;
+    padding: 0px;
 
 }
 
@@ -35,6 +43,9 @@ h2{
     text-indent: 50px;
     font-size: 20px;
 }
+
+
+
 
 p{
     font-size: 20px;
@@ -54,6 +65,10 @@ p{
 
 }
 
+li{
+    font-size: 20px;
+}
+
 .separar{
     font-size: 20px;
     display:inline-block;
@@ -64,6 +79,25 @@ a{
     padding: 94px;
 }
 
+.aAjustada{
+    padding:60px;
+}
+
+h3{
+    color:white;
+    text-align: center;
+    line-height: 2.0;
+    border: 1px solid black;
+    background-color: black;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+}
+
+.ajustarCorreo{
+    font-size:20px;
+}
 
 
 
