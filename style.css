@@ -1,0 +1,69 @@
+h1{
+    color:white;
+    text-align: center;
+    line-height: 2.0;
+    border: 1px solid black;
+    background-color: black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  
+}
+
+h2{
+    color:white;
+    border: 1px solid rgb(11, 159, 179);
+    background-color: rgb(11, 159, 179);
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+
+}
+
+.imgPer{
+    float:right;
+    padding: 25px;
+
+}
+
+.arreglar{
+    overflow: auto;
+    padding: 25px;
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+    padding: 25px;
+}
+
+.horizontal{
+    color:white;
+    border: 1px solid rgb(9, 81, 90);
+    background-color: rgb(9, 81, 90);
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    text-align: center;
+
+
+}
+
+.separar{
+    font-size: 20px;
+    display:inline-block;
+    padding: 10px;
+}
+
+a{
+    padding: 94px;
+}
+
+
+
+
